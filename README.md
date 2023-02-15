@@ -32,7 +32,7 @@
 
 *Estruturas de Dados vistas:
     ● Arrays (unidimensionais e bidimensionais
-    ● Listas Encadeadas (List)
+    ● Listas Encadeadas (List)s
      
      
     
