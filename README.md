@@ -3,10 +3,11 @@
 #Esses são alguns exercicios que fiz quando estava estudando Java.
 
 [1]Alguns tópicos básicos abordados neles são:
-    ● Tipos primitivos
-    ● Condicionais (If and Else)
-    ● Uso de constantes
-    ● Loopings (For and While)
+
+● Tipos primitivos
+● Condicionais (If and Else)
+● Uso de constantes
+● Loopings (For and While)
     
 [2]Orientação a Objetos:
     ● Objetos
@@ -32,7 +33,7 @@
 
 *Estruturas de Dados vistas:
     ● Arrays (unidimensionais e bidimensionais
-    ● Listas Encadeadas (List)s
+    ● Listas Encadeadas (List)
      
      
     
